@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:background="@color/blue_sky"
+    android:padding="16dp"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/dayTextView"
+        style="@style/ListItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        tools:ignore="TextContrastCheck"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:text="Monday" />
+
+    <TextView
+        android:id="@+id/minTextView"
+        style="@style/ListItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=""
+        android:textAlignment="center"
+        tools:ignore="TextContrastCheck"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:text="Min: 24 C" />
+
+    <TextView
+        android:id="@+id/maxTextView"
+        style="@style/ListItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=""
+        android:textAlignment="center"
+        tools:ignore="TextContrastCheck"
+        tools:layout_editor_absoluteX="289dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:text="Max: 32 C" />
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kolor Weather</string>
+    <string name="no_data">No Data</string>
+    <string name="localization">Saltillo, Coahuila</string>
+    <string name="temp_placeholder">%d C</string>
+    <string name="prcip_placeholder">%d %%</string>
+    <string name="currentTime_placeholder">%s</string>
+    <string name="temp">TEMP</string>
+    <string name="precip">PRECIP</string>
+    <string name="daily_button_text">DAILY WEATHER</string>
+    <string name="hourly_button_text">hourly weather</string>
+    <string name="icon_weather_icon">icon weather icon</string>
+    <string name="language">en</string>
+    <string name="units">si</string>
+    <string name="network_error">NETWORK ERROR</string>
+    <string name="retry">RETRY?</string>
+    <string name="daily_weather">Daily Weather</string>
+    <string name="summary_of_the_week">Summary of the week</string>
+    <string name="no_daily_data">No Data</string>
+    <string name="summary_of_the_day">Summary of the Day</string>
+    <string name="hourly_weather">Hourly Weather</string>
+</resources>

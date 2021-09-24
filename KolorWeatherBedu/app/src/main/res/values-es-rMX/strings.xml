@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KolorWeatherBedu</string>
+    <string name="no_data">No Info</string>
+    <string name="localization">Saltillo, Coahuila</string>
+    <string name="temp_placeholder">%d C</string>
+    <string name="prcip_placeholder">%d %%</string>
+    <string name="currentTime_placeholder">%s</string>
+    <string name="temp">TEMP</string>
+    <string name="precip">PRECIP</string>
+    <string name="daily_button_text">CLIMA DIARIO</string>
+    <string name="hourly_button_text">CLIMA HORA</string>
+    <string name="icon_weather_icon">icon weather icon</string>
+    <string name="language">es</string>
+    <string name="units">si</string>
+    <string name="network_error">ERROR DE RED</string>
+    <string name="retry">REINTENTAR?</string>
+    <string name="daily_weather">Clima Diario</string>
+    <string name="summary_of_the_week">Resumen de la Semana</string>
+    <string name="no_daily_data">No Hay Datos</string>
+    <string name="summary_of_the_day">Resumen del dia</string>
+    <string name="hourly_weather">Clima por Hora</string>
+</resources>

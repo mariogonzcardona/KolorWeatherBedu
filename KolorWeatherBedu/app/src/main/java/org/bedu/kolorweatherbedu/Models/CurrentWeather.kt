@@ -2,7 +2,7 @@ package org.bedu.kolorweatherbedu.Models
 
 import org.bedu.kolorweatherbedu.R
 
-class CurrentWeather(var icon:String,var summary:String,var temp:Double,var precip:Double) {
+data class CurrentWeather(var icon:String,var summary:String,var temp:Double,var precip:Double) {
 
     fun getIconResource():Int{
         return when (icon) {
@@ -22,5 +22,4 @@ class CurrentWeather(var icon:String,var summary:String,var temp:Double,var prec
             else -> R.drawable.na
         }
     }
-
 }

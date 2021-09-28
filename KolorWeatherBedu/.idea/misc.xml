@@ -5,9 +5,10 @@
       <map>
         <entry key="..\:/Users/sande/Documents/AndroidProjects/KolorWeatherBedu/app/src/main/res/drawable-xxxhdpi/drawable.xml" value="0.2703125" />
         <entry key="..\:/Users/sande/Documents/AndroidProjects/KolorWeatherBedu/app/src/main/res/layout/activity_daily_weather.xml" value="0.4" />
-        <entry key="..\:/Users/sande/Documents/AndroidProjects/KolorWeatherBedu/app/src/main/res/layout/activity_hourly_weather.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sande/Documents/AndroidProjects/KolorWeatherBedu/app/src/main/res/layout/activity_hourly_weather.xml" value="0.536" />
         <entry key="..\:/Users/sande/Documents/AndroidProjects/KolorWeatherBedu/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Users/sande/Documents/AndroidProjects/KolorWeatherBedu/app/src/main/res/layout/daily_item.xml" value="0.536" />
+        <entry key="..\:/Users/sande/Documents/AndroidProjects/KolorWeatherBedu/app/src/main/res/layout/horly_item.xml" value="0.4" />
       </map>
     </option>
   </component>
@@ -16,5 +17,8 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
   </component>
 </project>
